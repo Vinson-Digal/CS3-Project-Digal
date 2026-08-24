@@ -4,4 +4,4 @@
  
  [View the working code](Screenshot.png)
  
-[View the code](zodiacSectionLN.py)
+[View the code](zodiacPotassiumLN.py)
