@@ -21,3 +21,4 @@ else:
     zodiac = zodiac_signs[index]
     print(f"Your Chinese Zodiac Sign is : {zodiac}")
 
+ [View the full activity sheet](Grade-9-K-Activity-zodiac.pdf) 
