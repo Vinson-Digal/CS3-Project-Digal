@@ -5,5 +5,3 @@
  [View the working code](Screenshot.png)
  
 [View the code](zodiacPotassiumLN.py)
-
-\
